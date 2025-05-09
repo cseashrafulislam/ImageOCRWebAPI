@@ -26,4 +26,9 @@ URL: http://localhost:5000/api/ocr/upload
 7. Value: Select an image file (PNG/JPG) that contains some readable text
 8. Click Send
 
+# Upload Image
+![download](https://github.com/user-attachments/assets/fd7044fe-6ca0-4e42-a4a1-ec52c989bbef)
+
+# Results:
+![Capture](https://github.com/user-attachments/assets/5c0cccbf-ff54-4989-9884-32445bcd0c8f)
 
