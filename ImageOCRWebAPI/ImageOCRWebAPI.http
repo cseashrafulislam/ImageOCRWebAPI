@@ -1,0 +1,6 @@
+@ImageOCRWebAPI_HostAddress = http://localhost:5057
+
+GET {{ImageOCRWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
