@@ -1,4 +1,5 @@
-# ImageOCRWebAPI (A Web API that accepts image uploads and returns extracted text using Tesseract OCR.)
+# ImageOCRWebAPI (Bengali + English Language) 
+# (A Web API that accepts image uploads and returns extracted text (Bengali + English) using Tesseract OCR.)
 Project: Image OCR Web API 
 Backend: ASP.NET Core Web API (.NET 8+)
 AI Integration:
@@ -27,8 +28,8 @@ URL: http://localhost:5000/api/ocr/upload
 8. Click Send
 
 # Upload Image
-![download](https://github.com/user-attachments/assets/fd7044fe-6ca0-4e42-a4a1-ec52c989bbef)
+![BanglaImage](https://github.com/user-attachments/assets/19701737-f616-4c1f-8ca9-bbbe4c379819)
 
 # Results:
-![Capture](https://github.com/user-attachments/assets/5c0cccbf-ff54-4989-9884-32445bcd0c8f)
+![Capture](https://github.com/user-attachments/assets/4b7db1dc-4af3-49c4-888c-7da645c948a0)
 
