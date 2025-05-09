@@ -31,7 +31,6 @@ if (app.Environment.IsDevelopment())
     });
 }
 
-
 app.UseStaticFiles(); // optional for serving images
 
 app.UseHttpsRedirection();
