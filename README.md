@@ -19,11 +19,11 @@ Set:
 Method: POST
 URL: http://localhost:5000/api/ocr/upload
 2. Go to Body tab
-Choose form-data
-Add a field:
-Key: imageFile (⚠️ this must match the parameter name in your controller)
-Type: File (click dropdown from "Text")
-Value: Select an image file (PNG/JPG) that contains some readable text
-3. Click Send
+3. Choose form-data
+4. Add a field:
+5. Key: imageFile 
+6. Type: File (click dropdown from "Text")
+7. Value: Select an image file (PNG/JPG) that contains some readable text
+8. Click Send
 
 
